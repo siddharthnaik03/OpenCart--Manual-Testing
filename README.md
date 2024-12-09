@@ -23,7 +23,9 @@ The following functionalities were covered in this project:
     
 #### Testing Activities
 •	Designed and Documented Test Cases: Created 300 test cases for different functionalities and scenarios.
+
 •	Executed Test Cases: Executed test cases to verify the functionalities.
+
 •	Identified and Report Issues: Discovered 17 issues and marked it as Fail.
 
 
