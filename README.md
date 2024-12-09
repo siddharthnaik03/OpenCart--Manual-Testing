@@ -1,6 +1,6 @@
 # OpenCart--Manual-Testing
 
-### This project based on manual testing of the OpenCart web application. The testing activities included designing and documenting test cases for different functionalities, executing test cases, and identifying issues.
+#### This project based on manual testing of the OpenCart web application. The testing activities included designing and documenting test cases for different functionalities, executing test cases, and identifying issues.
 
 #### Functionalities Covered
 The following functionalities were covered in this project:
